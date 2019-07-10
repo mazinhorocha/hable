@@ -1,0 +1,758 @@
+/*@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');*/
+
+container-desktop {
+}
+
+.desk-header {
+    padding: 10px 5px;
+    background-color: #fff;
+    --position: fixed;
+    width: 100%;
+    z-index: 999;
+    color: #ee2323;
+}
+
+.v-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ligue-gratis {
+    float: right;
+}
+
+.desk-banner img {
+    width: 100%;
+    height: auto;
+}
+
+
+.desk-liga-pra-min {
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.desk-liga-pra-min .ajuste-form {
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+
+.desk-liga-pra-min img.garota {
+    height: 111px;
+    position: absolute;
+    top: -13px;
+    left: 0px;
+}
+
+.desk-ofertas {
+    background-color: #f5f5f5;
+    padding-top: 25px;
+    padding-bottom: 31px;
+}
+
+.desk-titulo1 {
+    text-align: center;
+}
+
+.desk-titulo1 h3 {
+    color: #155e9d;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+
+.desk-ofertas .chamado-venda h4 {
+    font-size: 30px;
+    color: #ee2323;
+    font-weight: bolder;
+}
+
+.desk-ofertas .chamado-venda h5 {
+    font-size: 23px;
+    color: #00000096;
+    margin-top: 5px;
+    margin-bottom: 33px;
+}
+
+.desk-titulo1 h4 {
+    color: #6c757d;
+    font-size: 20px;
+}
+
+.card-oferta {
+    text-align: center;
+    background-color: #fff;
+    margin-bottom: 21px;
+}
+
+.card-oferta .titulo {
+    padding: 10px 10px;
+    color: #ee2323;
+    font-weight: bold;
+    border-bottom: 1px solid;
+}
+
+.card-oferta .corpo {
+    padding: 15px;
+    color: #607D8B;
+}
+
+.card-oferta .dinheiro {
+    font-size: 26px;
+    color: #ee2323 !important;
+    font-weight: bolder;
+}
+
+.card-oferta .preco-grande {
+    font-size: 77px;
+    font-weight: bolder;
+    color: #ee2323;
+}
+
+.card-oferta .acao {
+    margin-top: 15px;
+}
+
+.card-oferta .acao a {
+    color: #ee2323;
+!important:;
+    text-decoration: none !important;
+    font-weight: bolder !important;
+    background-color: #9e9e9e6b !important;
+    border: none !important;
+}
+
+.card-oferta .info-preco {
+    font-size: 17px;
+    font-weight: bolder;
+    color: #ee2323;
+}
+
+.card-oferta .detalhes {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card-oferta .detalhes .prod {
+    color: #2196F3;
+    border-bottom: 1px solid #9e9e9e42;
+    text-align: left;
+}
+
+.card-oferta .detalhes .prod b {
+    float: right;
+}
+
+.card-oferta .detalhes .prod:last-child {
+    border-bottom: none;
+}
+
+.desk-indicadores {
+    padding-top: 42px;
+    padding-bottom: 42px;
+    background-color: #fff;
+}
+
+.desk-indicadores .box-indicador .c {
+    color: #607D8B;
+    margin-left: 61px;
+}
+
+.desk-indicadores .box-indicador svg {
+    fill: #ee2323;
+    width: 35px;
+    margin-right: 16px;
+    height: 35px;
+    margin-left: 10px;
+}
+
+.desk-indicadores .box-indicador .h {
+    font-size: 18px;
+    color: #000000a3;;
+    font-weight: bolder;
+    justify-content: left;
+}
+
+.desk-indicadores .box-indicador .h i {
+    font-size: 38px;
+    margin-right: 7px
+
+}
+
+.box-indicador {
+    margin-bottom: 32px;
+}
+
+.desk_rodape {
+
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 141px;
+}
+
+.desk_rodape .numero {
+    font-size: 28px;
+    font-weight: 900;
+}
+
+.desk_rodape h4 {
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+
+.desk_rodape .itele {
+
+    font-size: 44px;
+    margin-right: 10px;
+    margin-top: 2%;
+    opacity: .5;
+}
+
+.col-md-12.info-fraquia {
+    color: #9E9E9E;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 10px;
+    line-height: 18px;
+}
+
+span.desk-fone-header {
+    color: #0098d8;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.desk-prod-info h3, .desk-prod-info div {
+    font-family: 'Open Sans', sans-serif;
+    /* font-weight: bold; */
+}
+
+.desk-prod-info h3 {
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+h3 {
+}
+
+.desk-prod-info i {
+    font-size: 25px;
+    display: inline-block;
+    width: 33px;
+    text-align: center;
+    margin-right: 12px;
+}
+
+.desk-prod-info .linha {
+    margin-bottom: 12px;
+}
+
+.desk-prod-info .prazo {
+    margin-top: -12px;
+    display: block;
+    font-size: 15px;
+}
+
+.btn-lg.btn-net {
+    background-color: #5bcef1;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+.banner_now {
+    background-color: #000;
+}
+
+.banner_now .left {
+    height: 354px;
+    width: 100%;
+    background-image: url("img/born_star.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 102% auto;
+    position: relative;
+}
+
+.banner_now .text-banner {
+    position: absolute;
+    right: 20%;
+    width: 50%;
+    top: 10%;
+    color: white;
+    font-size: 22px;
+    line-height: 29px;
+    max-width: 500px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner_now .text-banner h3 {
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.texto-ligamos {
+    font-size: 17px;
+}
+
+.desk_rodape .col-md-3 {
+    padding-top: 38px;
+}
+
+.logo_net_rodape {
+    height: 50px;
+}
+
+.modal-desktop-ligar {
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    background-color: #000000b5;
+    width: 100%;
+    z-index: 999;
+    height: 100%;
+    overflow: hidden;
+}
+
+.modal-desktop-container-container {
+    /* border: 1px solid red; */
+    margin-top: 9%;
+    background-color: #fff;
+    padding: 40px;
+    max-width: 512px;
+    position: relative;
+}
+
+a.modal-fechar {
+    position: absolute;
+    top: 4px;
+    color: red !important;
+    right: 9px;
+}
+
+@media (max-width: 769.98px) {
+    .container {
+        min-width: 100%;
+    }
+
+    /*.desk-liga-pra-min {*/
+    /*display: block!important;*/
+    /*position: fixed;*/
+    /*bottom: 0px;*/
+    /*width: 100%;*/
+    /*background-color: blue;*/
+    /*z-index: 200;*/
+    /*}*/
+    .desk_rodape .col-md-4 {
+        padding-bottom: 40px;
+    }
+
+    .desk_rodape .itele {
+        display: none;
+    }
+}
+
+@media (min-width: 769.98px) {
+    .desk-header {
+        position: fixed;
+        top: 0px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .desk-banner {
+        margin-top: 107px;
+
+    }
+}
+
+@media (max-width: 1000px) {
+    .ajustar-header-desk {
+        font-size: 10px;
+    }
+}
+
+.menu_aberto_mobile {
+    display: block !important;
+    position: absolute;
+    left: 0px;
+    width: 60%;
+    background-color: #ee2323;
+    top: 91px;
+    height: 100%;
+    z-index: 100;
+}
+
+.menu_aberto_mobile .col-md-12 {
+    padding-bottom: 17px;
+    padding-left: 32px;
+}
+
+.menu-aberto {
+    overflow: hidden;
+}
+
+.barra_fixa_mobile {
+    display: flex;
+    background-color: white;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    display: flex;
+}
+
+.barra_fixa_mobile .botao {
+
+    height: 10vh;
+    flex: 1;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 18px;
+}
+
+.barra_fixa_mobile .botao i {
+    font-size: 23px;
+}
+
+.b-fone {
+    background-color: #2196F3;
+    color: #fff;
+}
+
+.b-zap {
+    background-color: #25d366;
+    color: #fff
+}
+
+a:hover {
+    color: inherit;
+}
+
+.icone {
+    width: 20px;
+}
+
+.svg-container svg {
+    height: 100%;
+    width: 100%;
+}
+
+.svg-icone svg {
+    fill: currentColor;
+}
+
+/*img[data-src] {*/
+/*display: none;*/
+/*}*/
+
+.barra_fixa_desktop {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+.barra_fixa_desktop .botao {
+    height: 59px;
+    box-shadow: 1px 1px 2px #000;
+}
+
+.svg-icone-zap {
+
+    background-color: #fff;
+}
+
+.svg-icone-zap svg {
+
+    margin-top: -8px;
+    margin-bottom: -8px;
+}
+
+
+.col.boferta {
+    background-color: #fff;
+    margin: 6px;
+    padding: 17px;
+}
+
+/**
+    Ajutes do topo
+ */
+
+.btn-fale-zap {
+    color: #fff !important;
+}
+
+
+/**
+Index
+ */
+
+.claro-pacotes {
+    background-color: #f7f4f4;
+    padding-bottom: 33px;
+}
+
+.claro-pacotes-h {
+    /*color: red;*/
+    /*font-weight: bold;*/
+    /*margin-top: 15px;*/
+    /*margin-bottom: 15px;*/
+
+    color: red;
+    /* font-weight: bold; */
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+
+/**
+        box de produtos
+ */
+
+.b-bloco {
+    max-width: 288px;
+    margin: auto;
+}
+
+.b-bloco-h {
+    font-weight: bold;
+    margin-bottom: 12px;
+    font-size: 44px;
+    color: #fd0001;
+}
+
+.b-srv {
+    white-space: nowrap;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.b-srv i {
+    font-size: 44px;
+    margin-bottom: 10px;
+}
+
+.b-srv i.fa-whatsapp {
+    color: #3fc250
+}
+
+
+.b-srv-icone {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin: 0px 8px;
+}
+
+.b-src-t {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+
+/**
+    Preço
+ */
+.b-preco {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.b-preco-h {
+    margin-top: 10px;
+    font-size: 10px;
+    text-align: left;
+}
+
+.b-preco-inteiro, .b-preco-centavos, .b-preco-moeda {
+    display: inline-block;
+    vertical-align: center;
+    font-weight: bold;
+}
+
+.b-preco-inteiro {
+    font-size: 78px;
+}
+
+.b-preco-centavos {
+    font-size: 34px;
+    text-align: left;
+}
+
+.b-preco-info {
+    font-size: 10px;
+}
+
+/**
+Apps
+ */
+
+.b-apps {
+    margin-top: 10px;
+    margin-bottom: -25px;
+    text-align: center;
+}
+
+.b-apps-h {
+    font-size: 14px;
+}
+
+.b-apps i {
+    font-size: 40px;
+}
+
+.b-apps i.fa-instagram {
+    color: #cb3180
+}
+
+.b-apps i.fa-facebook-square {
+    color: #455892
+}
+
+.b-apps i.fa-twitter-square {
+    color: #1282be
+}
+
+/**
+Vantagens
+ */
+
+.b-vantagens {
+    text-align: left;
+    color: #000000ab;
+    margin-top: -18px;
+}
+
+.b-vantagens ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.b-vantagens ul li {
+    list-style-type: none;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+.b-vantagens i {
+    font-size: 19px;
+    width: 23px;
+}
+
+/*
+Banner secundario
+ */
+
+.banner-secundario {
+    background-color: #f7f4f4;
+}
+
+.ban-secu-h {
+    font-size: 27px;
+    text-align: center;
+    margin-bottom: 41px;
+}
+
+.ban-secu-img-cont img {
+    width: 82%;
+}
+
+.ban-secu-img-cont .ajuste-alt {
+    margin-top: 66px;
+}
+
+.ban-secu-img-cont .sub-logo {
+    display: inline-block;
+}
+
+.ban-secu-img-cont.row {
+    background-color: #9e9e9e5c;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.ban-secu-img-cont h3 {
+
+}
+
+/*
+Pacotes secundarios
+ */
+.claro-pacotes .c-bloco img {
+    width: 100%;
+    height: auto;
+}
+
+.claro-pacotes .c-oferta {
+
+}
+
+.claro-pacotes .c-h {
+    font-size: 23px;
+    color: red;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.claro-pacotes .c-t {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 32px;
+}
+
+
+/**
+    rodape
+ */
+
+.pagina-rodape .logo-claro img {
+    max-width: 200px;
+    width: 100%;
+}
+
+.pagina-rodape {
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+/**
+    OUtros components
+ */
+
+.botao_promocional {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    left: 0px;
+    color: #fff;
+    z-index: 999;
+}
+
+.botao_promocional a {
+    font-size: 25px;
+    border: none;
+}
+
+.botao_promocional a.btn-success {
+    background-color: #2196F3;
+}
+
+.botao_promocional a.btn-info {
+    background-color: #25d366;
+
+}

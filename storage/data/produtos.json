@@ -1,0 +1,35 @@
+[
+  {
+    "nome": "Claro 5GB",
+    "valor": 59.99,
+    "adicionais": [
+      "GESTOR",
+      "SMS",
+      "SEM_EXCEDENTES"
+    ],
+    "bonus": "NAO"
+  },
+  {
+    "nome": "Claro 15GB",
+    "valor": 119.99,
+    "adicionais": [
+      "GESTOR",
+      "SMS",
+      "SEM_EXCEDENTES",
+      "PASSAPORTE"
+    ],
+    "bonus": "SIM"
+  },
+  {
+    "nome": "Claro 50GB",
+    "valor": 199.99,
+    "adicionais": [
+      "GESTOR",
+      "SMS",
+      "SEM_EXCEDENTES",
+      "PASSAPORTE - EUROPA INCLUSO",
+      "EUROPA"
+    ],
+    "bonus": "SIM"
+  }
+]

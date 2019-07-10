@@ -1,0 +1,20 @@
+[
+  {
+    "tag": "GESTOR",
+    "nome": "Gestor online 3.0",
+    "banner": "img/imagem%201",
+    "texto": "Gerencie os celulares da sua empresa a qualquer hora e lugar."
+  },
+  {
+    "tag": "PASSAPORTE",
+    "nome": "Claro Passaporte",
+    "banner": "img/imagem%202",
+    "texto": "Ligações ilimitadas e 5GB para navegar na internet pelos principais destinos das Américas e da Europa."
+  },
+  {
+    "tag": "SEM_EXCEDENTES",
+    "nome": "Sem excedentes de dados",
+    "banner": "img/imagem%204",
+    "texto": "Navegue com tecnologia 4.5G sem surpresa na sua conta."
+  }
+]
