@@ -12,7 +12,7 @@
     "@fortawesome/fontawesome-free": "^5.8.2",
     "axios": "^0.18.0",
     "datatables": "^1.10.18",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-mask-plugin": "^1.14.15",
     "moment": "^2.24.0",
     "nanobar": "^0.4.2",
